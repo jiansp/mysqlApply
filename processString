@@ -1,0 +1,2 @@
+-- 截取字符串后四位
+select substring('abcdefg',-4);
